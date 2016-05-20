@@ -5,16 +5,16 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'Blueberry Sweet '
-datePublished: '2016-05-20T18:22:21.922Z'
-dateModified: '2016-05-20T18:22:15.393Z'
+datePublished: '2016-05-20T18:28:17.892Z'
+dateModified: '2016-05-20T18:22:30.599Z'
 title: Blueberry Sweet
 author:
   - name: © Edain McNeilly
     url: ''
+sourcePath: _posts/2016-05-20-blueberry-sweet.md
 authors: []
 publisher: null
 starred: false
-sourcePath: _posts/2016-05-20-blueberry-sweet.md
 url: blueberry-sweet/index.html
 _type: Article
 
