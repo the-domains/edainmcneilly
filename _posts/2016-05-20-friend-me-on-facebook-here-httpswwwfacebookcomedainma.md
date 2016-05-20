@@ -5,14 +5,14 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'Friend me on Facebook here: https://www.facebook.com/EdainMadb'
-datePublished: '2016-05-20T18:36:49.247Z'
-dateModified: '2016-05-20T18:36:45.959Z'
+datePublished: '2016-05-20T23:11:19.249Z'
+dateModified: '2016-05-20T23:11:18.964Z'
 title: ''
 author: []
+sourcePath: _posts/2016-05-20-friend-me-on-facebook-here-httpswwwfacebookcomedainma.md
 authors: []
 publisher: null
-starred: false
-sourcePath: _posts/2016-05-20-friend-me-on-facebook-here-httpswwwfacebookcomedainma.md
+starred: true
 url: friend-me-on-facebook-here-httpswwwfacebookcomedainma/index.html
 _type: Article
 
