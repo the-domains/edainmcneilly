@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'The Art of Edain '
-datePublished: '2016-05-20T18:13:13.704Z'
-dateModified: '2016-05-20T18:13:00.366Z'
+datePublished: '2016-05-20T18:16:12.801Z'
+dateModified: '2016-05-20T18:15:04.416Z'
 title: Ladybird Kisses
 author:
   - name: © Edain McNeilly
@@ -14,7 +14,7 @@ author:
 sourcePath: _posts/2016-05-20-concentration.md
 authors: []
 publisher: null
-starred: false
+starred: true
 url: concentration/index.html
 _type: Article
 
