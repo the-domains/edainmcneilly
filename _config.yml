@@ -1,0 +1,28 @@
+name: EdainMcNeilly
+favicon: null
+layout_spectrum: 0.054902477422729135
+typography_spectrum: 0.02524408558383584
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.056919804541394114
+  lightness: 0.18950689234770834
+  saturation: 0.6808581210207194
+  rhythmicContrast: 0.7265679005067796
+purpose: []
