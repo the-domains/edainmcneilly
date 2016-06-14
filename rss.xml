@@ -4,7 +4,7 @@
         <description><![CDATA[The Art of Edain]]></description>
         <link>https://thegrid.ai/edainmcneilly/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 14 Jun 2016 20:25:50 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Jun 2016 20:26:05 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/edainmcneilly/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/edainmcneilly/friend-me-on-facebook-here-httpswwwfacebookcomedainma/index.html</link>
             <guid isPermaLink="false">39195181-486a-4b62-a13b-38059ea4c069</guid>
             <pubDate>Tue, 14 Jun 2016 19:59:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Imprisoned Souls]]></title>
+            <description><![CDATA[<article><h1>Imprisoned Souls</h1><p>Available in print here:</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/7c5737c6-3b6f-4fc1-8064-cbe66181c3ae.jpg"></article>]]></description>
+            <link>https://thegrid.ai/edainmcneilly/471a9bc4-1ba1-4301-abfe-e30ddce8d50c/index.html</link>
+            <guid isPermaLink="false">471a9bc4-1ba1-4301-abfe-e30ddce8d50c</guid>
+            <pubDate>Tue, 14 Jun 2016 20:26:01 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Concentration]]></title>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/edainmcneilly/stormy/index.html</link>
             <guid isPermaLink="false">bc89986d-7ea6-4066-82c6-2a448d341ef0</guid>
             <pubDate>Tue, 14 Jun 2016 20:07:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Sleepy Bean]]></title>
-            <description><![CDATA[<article><h1>Sleepy Bean</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/1bfeec8b-bb4c-455a-a6ee-3c7b727b3d90.jpg"></article>]]></description>
-            <link>https://thegrid.ai/edainmcneilly/sleepy-bean/index.html</link>
-            <guid isPermaLink="false">7b03fce6-f8c0-4cb6-a7d8-c93f4bfedd08</guid>
-            <pubDate>Tue, 14 Jun 2016 20:07:30 GMT</pubDate>
         </item>
     </channel>
 </rss>
