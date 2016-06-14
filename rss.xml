@@ -4,7 +4,7 @@
         <description><![CDATA[The Art of Edain]]></description>
         <link>https://thegrid.ai/edainmcneilly/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 14 Jun 2016 20:00:21 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Jun 2016 20:00:32 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/edainmcneilly/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/edainmcneilly/friend-me-on-facebook-here-httpswwwfacebookcomedainma/index.html</link>
             <guid isPermaLink="false">39195181-486a-4b62-a13b-38059ea4c069</guid>
             <pubDate>Tue, 14 Jun 2016 19:59:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Wanna Fly]]></title>
+            <description><![CDATA[<article><h1>Wanna Fly</h1><p>Available in print here:</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f295561c-c4cb-4068-b22a-c66f832121f7.jpg"></article>]]></description>
+            <link>https://thegrid.ai/edainmcneilly/wanna-fly/index.html</link>
+            <guid isPermaLink="false">5324820e-51f1-4afb-855a-f7547c857f1e</guid>
+            <pubDate>Tue, 14 Jun 2016 20:00:28 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Whinny]]></title>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/edainmcneilly/cow-girl/index.html</link>
             <guid isPermaLink="false">d277def9-9362-4c67-bb1b-74a0399d0d9a</guid>
             <pubDate>Tue, 14 Jun 2016 18:20:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/57d4a191-eb90-4344-a153-13d2baf29196.jpg">]]></description>
-            <link>https://thegrid.ai/edainmcneilly/a381bba9-d092-486b-afe7-6b1d96917f05/index.html</link>
-            <guid isPermaLink="false">a381bba9-d092-486b-afe7-6b1d96917f05</guid>
-            <pubDate>Tue, 14 Jun 2016 18:18:24 GMT</pubDate>
         </item>
     </channel>
 </rss>
