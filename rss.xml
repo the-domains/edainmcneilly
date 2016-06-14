@@ -4,7 +4,7 @@
         <description><![CDATA[The Art of Edain]]></description>
         <link>https://thegrid.ai/edainmcneilly/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 14 Jun 2016 19:29:08 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Jun 2016 19:48:58 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/edainmcneilly/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -12,6 +12,20 @@
             <link>https://thegrid.ai/edainmcneilly/friend-me-on-facebook-here-httpswwwfacebookcomedainma/index.html</link>
             <guid isPermaLink="false">39195181-486a-4b62-a13b-38059ea4c069</guid>
             <pubDate>Tue, 14 Jun 2016 17:08:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Cassandra]]></title>
+            <description><![CDATA[<article><h1>Cassandra</h1><p>Available in 2 prints here:</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/eb3b7c01-97f4-418e-a8a2-d83f6637a9bd.jpg"></article>]]></description>
+            <link>https://thegrid.ai/edainmcneilly/cassandra/index.html</link>
+            <guid isPermaLink="false">a3b598c8-eaba-4dc0-9fcd-6dc393d33ae5</guid>
+            <pubDate>Tue, 14 Jun 2016 19:48:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/7f243821-e397-4053-b44b-36c3d436411d.jpg">]]></description>
+            <link>https://thegrid.ai/edainmcneilly/71bd1ae8-4876-4166-8b44-746bea87e8d8/index.html</link>
+            <guid isPermaLink="false">71bd1ae8-4876-4166-8b44-746bea87e8d8</guid>
+            <pubDate>Tue, 14 Jun 2016 19:42:37 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -61,20 +75,6 @@
             <link>https://thegrid.ai/edainmcneilly/wanna-fly/index.html</link>
             <guid isPermaLink="false">5324820e-51f1-4afb-855a-f7547c857f1e</guid>
             <pubDate>Tue, 14 Jun 2016 17:58:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c5f351b1-4b84-47fe-b6fb-46ec55e1313f.jpg">]]></description>
-            <link>https://thegrid.ai/edainmcneilly/874e7110-66cf-4e99-8cf5-1780346e5f35/index.html</link>
-            <guid isPermaLink="false">874e7110-66cf-4e99-8cf5-1780346e5f35</guid>
-            <pubDate>Tue, 14 Jun 2016 17:55:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e169dc90-e025-40fe-921e-a41a03b72c82.jpg">]]></description>
-            <link>https://thegrid.ai/edainmcneilly/a5f6fb79-bc0a-49fe-a01e-b7eee590550d/index.html</link>
-            <guid isPermaLink="false">a5f6fb79-bc0a-49fe-a01e-b7eee590550d</guid>
-            <pubDate>Tue, 14 Jun 2016 17:53:29 GMT</pubDate>
         </item>
     </channel>
 </rss>
