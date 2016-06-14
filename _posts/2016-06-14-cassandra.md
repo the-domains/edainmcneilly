@@ -5,16 +5,16 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'Available in 2 prints here:'
-datePublished: '2016-06-14T19:48:52.804Z'
-dateModified: '2016-06-14T19:47:14.776Z'
+datePublished: '2016-06-14T20:01:23.531Z'
+dateModified: '2016-06-14T20:01:22.902Z'
 title: Cassandra
 author:
   - name: Edain McNeilly
     url: ''
+sourcePath: _posts/2016-06-14-cassandra.md
 authors: []
 publisher: null
 starred: false
-sourcePath: _posts/2016-06-14-cassandra.md
 url: cassandra/index.html
 _type: Article
 
