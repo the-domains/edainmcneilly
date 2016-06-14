@@ -4,7 +4,7 @@
         <description><![CDATA[The Art of Edain]]></description>
         <link>https://thegrid.ai/edainmcneilly/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 14 Jun 2016 20:05:26 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Jun 2016 20:07:15 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/edainmcneilly/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/edainmcneilly/friend-me-on-facebook-here-httpswwwfacebookcomedainma/index.html</link>
             <guid isPermaLink="false">39195181-486a-4b62-a13b-38059ea4c069</guid>
             <pubDate>Tue, 14 Jun 2016 19:59:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Concentration]]></title>
+            <description><![CDATA[<article><h1>Concentration</h1><p>Available in print here:</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ea7d8d4d-2fca-4b4c-b57a-2a975cb520fd.jpg"></article>]]></description>
+            <link>https://thegrid.ai/edainmcneilly/68a8a0f0-d10a-4370-bdda-264c2a7c842e/index.html</link>
+            <guid isPermaLink="false">68a8a0f0-d10a-4370-bdda-264c2a7c842e</guid>
+            <pubDate>Tue, 14 Jun 2016 20:07:10 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Join Us]]></title>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/edainmcneilly/874e7110-66cf-4e99-8cf5-1780346e5f35/index.html</link>
             <guid isPermaLink="false">874e7110-66cf-4e99-8cf5-1780346e5f35</guid>
             <pubDate>Tue, 14 Jun 2016 20:00:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Stormy]]></title>
-            <description><![CDATA[<article><h1>Stormy</h1><p>©Edain </p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/bf92ab76-ba19-4b61-9530-1a1f3446abd1.jpg"></article>]]></description>
-            <link>https://thegrid.ai/edainmcneilly/stormy/index.html</link>
-            <guid isPermaLink="false">bc89986d-7ea6-4066-82c6-2a448d341ef0</guid>
-            <pubDate>Tue, 14 Jun 2016 19:59:58 GMT</pubDate>
         </item>
     </channel>
 </rss>
