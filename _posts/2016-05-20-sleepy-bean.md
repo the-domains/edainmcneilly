@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-05-20T23:11:31.298Z'
-dateModified: '2016-05-20T23:11:31.085Z'
+datePublished: '2016-06-14T20:07:30.646Z'
+dateModified: '2016-06-14T20:07:30.051Z'
 title: Sleepy Bean
 author:
   - name: © Edain McNeilly
