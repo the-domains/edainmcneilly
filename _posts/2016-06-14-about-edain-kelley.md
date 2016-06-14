@@ -5,14 +5,14 @@ inNav: false
 inLanguage: null
 keywords: []
 description: About Edain Kelley
-datePublished: '2016-06-14T16:49:41.085Z'
-dateModified: '2016-06-14T16:47:46.894Z'
+datePublished: '2016-06-14T16:59:32.764Z'
+dateModified: '2016-06-14T16:58:28.065Z'
 title: ''
 author: []
+sourcePath: _posts/2016-06-14-about-edain-kelley.md
 authors: []
 publisher: null
 starred: false
-sourcePath: _posts/2016-06-14-about-edain-kelley.md
 url: about-edain-kelley/index.html
 _type: Article
 
