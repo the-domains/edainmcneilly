@@ -4,7 +4,7 @@
         <description><![CDATA[The Art of Edain]]></description>
         <link>https://thegrid.ai/edainmcneilly/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 14 Jun 2016 20:09:03 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Jun 2016 20:08:39 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/edainmcneilly/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -12,20 +12,6 @@
             <link>https://thegrid.ai/edainmcneilly/friend-me-on-facebook-here-httpswwwfacebookcomedainma/index.html</link>
             <guid isPermaLink="false">39195181-486a-4b62-a13b-38059ea4c069</guid>
             <pubDate>Tue, 14 Jun 2016 19:59:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Forest]]></title>
-            <description><![CDATA[<article><h1>Forest</h1><p>© Edain</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/57d4a191-eb90-4344-a153-13d2baf29196.jpg"></article>]]></description>
-            <link>https://thegrid.ai/edainmcneilly/a381bba9-d092-486b-afe7-6b1d96917f05/index.html</link>
-            <guid isPermaLink="false">a381bba9-d092-486b-afe7-6b1d96917f05</guid>
-            <pubDate>Tue, 14 Jun 2016 20:08:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Join Us]]></title>
-            <description><![CDATA[<article><h1>Join Us</h1><p>© Edain</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/28c50c07-fbce-4702-aa77-5ce90598509e.jpg"></article>]]></description>
-            <link>https://thegrid.ai/edainmcneilly/469d1114-9cfb-4463-9237-1b750e0577fe/index.html</link>
-            <guid isPermaLink="false">469d1114-9cfb-4463-9237-1b750e0577fe</guid>
-            <pubDate>Tue, 14 Jun 2016 20:08:41 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Time Doll]]></title>
@@ -75,6 +61,20 @@
             <link>https://thegrid.ai/edainmcneilly/cow-girl/index.html</link>
             <guid isPermaLink="false">d277def9-9362-4c67-bb1b-74a0399d0d9a</guid>
             <pubDate>Tue, 14 Jun 2016 20:07:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Concentration]]></title>
+            <description><![CDATA[<article><h1>Concentration</h1><p>Available in print here:</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ea7d8d4d-2fca-4b4c-b57a-2a975cb520fd.jpg"></article>]]></description>
+            <link>https://thegrid.ai/edainmcneilly/68a8a0f0-d10a-4370-bdda-264c2a7c842e/index.html</link>
+            <guid isPermaLink="false">68a8a0f0-d10a-4370-bdda-264c2a7c842e</guid>
+            <pubDate>Tue, 14 Jun 2016 20:07:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Join Us]]></title>
+            <description><![CDATA[<article><h1>Join Us</h1><p>© Edain</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/28c50c07-fbce-4702-aa77-5ce90598509e.jpg"></article>]]></description>
+            <link>https://thegrid.ai/edainmcneilly/469d1114-9cfb-4463-9237-1b750e0577fe/index.html</link>
+            <guid isPermaLink="false">469d1114-9cfb-4463-9237-1b750e0577fe</guid>
+            <pubDate>Tue, 14 Jun 2016 20:05:02 GMT</pubDate>
         </item>
     </channel>
 </rss>
