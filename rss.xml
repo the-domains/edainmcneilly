@@ -4,7 +4,7 @@
         <description><![CDATA[The Art of Edain]]></description>
         <link>https://thegrid.ai/edainmcneilly/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 14 Jun 2016 18:19:08 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Jun 2016 18:20:09 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/edainmcneilly/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/edainmcneilly/friend-me-on-facebook-here-httpswwwfacebookcomedainma/index.html</link>
             <guid isPermaLink="false">39195181-486a-4b62-a13b-38059ea4c069</guid>
             <pubDate>Tue, 14 Jun 2016 17:08:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Cow Girl]]></title>
+            <description><![CDATA[<article><h1>Cow Girl</h1><p>Available in print here:</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/59dc400f-e985-4d34-a664-5d9d53beed84.jpg"></article>]]></description>
+            <link>https://thegrid.ai/edainmcneilly/cow-girl/index.html</link>
+            <guid isPermaLink="false">d277def9-9362-4c67-bb1b-74a0399d0d9a</guid>
+            <pubDate>Tue, 14 Jun 2016 18:20:04 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/edainmcneilly/sleepy-bean/index.html</link>
             <guid isPermaLink="false">7b03fce6-f8c0-4cb6-a7d8-c93f4bfedd08</guid>
             <pubDate>Fri, 20 May 2016 23:11:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Blueberry Sweet]]></title>
-            <description><![CDATA[<article><h1>Blueberry Sweet</h1><p>Blueberry Sweet </p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e61174be-9950-4d96-9f7d-11ad2ea86a7d.jpg"></article>]]></description>
-            <link>https://thegrid.ai/edainmcneilly/blueberry-sweet/index.html</link>
-            <guid isPermaLink="false">9839e636-d442-4c33-935e-f81abec20e39</guid>
-            <pubDate>Fri, 20 May 2016 23:04:05 GMT</pubDate>
         </item>
     </channel>
 </rss>
