@@ -4,7 +4,7 @@
         <description><![CDATA[The Art of Edain]]></description>
         <link>https://thegrid.ai/edainmcneilly/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 14 Jun 2016 18:18:21 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Jun 2016 18:19:08 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/edainmcneilly/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/edainmcneilly/friend-me-on-facebook-here-httpswwwfacebookcomedainma/index.html</link>
             <guid isPermaLink="false">39195181-486a-4b62-a13b-38059ea4c069</guid>
             <pubDate>Tue, 14 Jun 2016 17:08:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/57d4a191-eb90-4344-a153-13d2baf29196.jpg">]]></description>
+            <link>https://thegrid.ai/edainmcneilly/a381bba9-d092-486b-afe7-6b1d96917f05/index.html</link>
+            <guid isPermaLink="false">a381bba9-d092-486b-afe7-6b1d96917f05</guid>
+            <pubDate>Tue, 14 Jun 2016 18:18:24 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/edainmcneilly/blueberry-sweet/index.html</link>
             <guid isPermaLink="false">9839e636-d442-4c33-935e-f81abec20e39</guid>
             <pubDate>Fri, 20 May 2016 23:04:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Ladybird Kisses]]></title>
-            <description><![CDATA[<article><h1>Ladybird Kisses</h1><p>The Art of Edain </p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/576314d6-6212-49a5-9a03-929dd36f8d71.jpg"></article>]]></description>
-            <link>https://thegrid.ai/edainmcneilly/concentration/index.html</link>
-            <guid isPermaLink="false">3948b100-34ad-4039-a804-0065ca4a81c1</guid>
-            <pubDate>Fri, 20 May 2016 18:33:08 GMT</pubDate>
         </item>
     </channel>
 </rss>
