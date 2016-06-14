@@ -1,6 +1,6 @@
 name: Edain McNeilly
 favicon: null
-layout_spectrum: 0
+layout_spectrum: 1
 typography_spectrum: 1
 title: The Art of Edain
 cta:
@@ -25,5 +25,5 @@ color:
   brandStrength: 0
   lightness: 0.5
   saturation: 0
-  rhythmicContrast: 0.7265679005067796
+  rhythmicContrast: 0.75
 purpose: []
