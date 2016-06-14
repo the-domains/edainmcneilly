@@ -4,11 +4,9 @@ hasPage: true
 inNav: false
 inLanguage: null
 keywords: []
-description: >-
-  Follow and Like my official fan page on Facebook here:
-  https://www.facebook.com/EdainKelley/
-datePublished: '2016-06-14T16:39:22.155Z'
-dateModified: '2016-06-14T16:39:17.883Z'
+description: Where to find Edain Kelley
+datePublished: '2016-06-14T16:45:06.103Z'
+dateModified: '2016-06-14T16:44:57.152Z'
 title: ''
 author: []
 sourcePath: _posts/2016-05-20-friend-me-on-facebook-here-httpswwwfacebookcomedainma.md
@@ -21,7 +19,9 @@ _type: Article
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e431d305-a85e-430c-99a3-84be15163206.jpg)
 
-Follow and Like my official fan page on Facebook here: https://www.facebook.com/EdainKelley/
+Where to find Edain Kelley
+
+Follow and Like my official fan page on Facebook here: https://www.facebook.com/EdainKelley/ 
 
 See more of Edain's art and buy prints at Deviantart here: http://edainmcneilly.deviantart.com
 
