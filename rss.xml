@@ -4,7 +4,7 @@
         <description><![CDATA[The Art of Edain]]></description>
         <link>https://thegrid.ai/edainmcneilly/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 14 Jun 2016 20:08:39 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Jun 2016 20:08:30 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/edainmcneilly/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -12,13 +12,6 @@
             <link>https://thegrid.ai/edainmcneilly/friend-me-on-facebook-here-httpswwwfacebookcomedainma/index.html</link>
             <guid isPermaLink="false">39195181-486a-4b62-a13b-38059ea4c069</guid>
             <pubDate>Tue, 14 Jun 2016 19:59:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Time Doll]]></title>
-            <description><![CDATA[<article><h1>Time Doll</h1><p>© Edain</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/936361c1-ae06-47d0-955d-e1ab2bf14e91.jpg"></article>]]></description>
-            <link>https://thegrid.ai/edainmcneilly/ff3716c8-a0e7-4cfb-8842-a1f01fe47d9c/index.html</link>
-            <guid isPermaLink="false">ff3716c8-a0e7-4cfb-8842-a1f01fe47d9c</guid>
-            <pubDate>Tue, 14 Jun 2016 20:08:34 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Wanna Fly]]></title>
@@ -75,6 +68,13 @@
             <link>https://thegrid.ai/edainmcneilly/469d1114-9cfb-4463-9237-1b750e0577fe/index.html</link>
             <guid isPermaLink="false">469d1114-9cfb-4463-9237-1b750e0577fe</guid>
             <pubDate>Tue, 14 Jun 2016 20:05:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Samantha]]></title>
+            <description><![CDATA[<article><h1>Samantha</h1><p>Available in 2 prints here:</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/4607c7a6-7fde-4211-a3c8-feda9dfa0082.jpg"></article>]]></description>
+            <link>https://thegrid.ai/edainmcneilly/samantha/index.html</link>
+            <guid isPermaLink="false">921702ae-ad75-4b54-a8fa-3fc6aaf4addd</guid>
+            <pubDate>Tue, 14 Jun 2016 20:01:31 GMT</pubDate>
         </item>
     </channel>
 </rss>
