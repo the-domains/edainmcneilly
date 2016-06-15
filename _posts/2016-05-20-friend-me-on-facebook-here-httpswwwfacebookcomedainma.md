@@ -5,10 +5,12 @@ inNav: false
 inLanguage: null
 keywords: []
 description: Where to find Edain Kelley
-datePublished: '2016-06-15T01:47:02.163Z'
-dateModified: '2016-06-15T01:46:44.158Z'
+datePublished: '2016-06-15T02:05:59.712Z'
+dateModified: '2016-06-15T02:05:55.693Z'
 title: ''
-author: []
+author:
+  - name: ''
+    url: ''
 sourcePath: _posts/2016-05-20-friend-me-on-facebook-here-httpswwwfacebookcomedainma.md
 authors: []
 publisher: null
@@ -17,7 +19,6 @@ url: friend-me-on-facebook-here-httpswwwfacebookcomedainma/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ad0e9af0-e0ee-4154-84be-71fbdebe9f55.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e431d305-a85e-430c-99a3-84be15163206.jpg)
 
 Where to find Edain Kelley
@@ -44,4 +45,5 @@ Kelley is an enthusiastic artist, specializing in graphic design and painting. K
 
 3D products by Edain http://www.contentparadise.com/searchimageviewdetail.aspx?searchText&seller=Edain 
 
-Art & Prints by Edain http://edainmcneilly.deviantart.com/
+Art & Prints by Edain http://edainmcneilly.deviantart.com/ ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/7923e0b6-796a-4624-8fc0-279d3325dba5.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/21f7a87e-c273-4f07-ad94-6e57550aa1fc.jpg)
