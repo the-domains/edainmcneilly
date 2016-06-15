@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: Where to find Edain Kelley
-datePublished: '2016-06-15T02:05:59.712Z'
-dateModified: '2016-06-15T02:05:55.693Z'
+datePublished: '2016-06-15T02:07:59.441Z'
+dateModified: '2016-06-15T02:07:57.935Z'
 title: ''
 author:
   - name: ''
@@ -19,6 +19,7 @@ url: friend-me-on-facebook-here-httpswwwfacebookcomedainma/index.html
 _type: Article
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/7923e0b6-796a-4624-8fc0-279d3325dba5.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e431d305-a85e-430c-99a3-84be15163206.jpg)
 
 Where to find Edain Kelley
@@ -45,5 +46,4 @@ Kelley is an enthusiastic artist, specializing in graphic design and painting. K
 
 3D products by Edain http://www.contentparadise.com/searchimageviewdetail.aspx?searchText&seller=Edain 
 
-Art & Prints by Edain http://edainmcneilly.deviantart.com/ ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/7923e0b6-796a-4624-8fc0-279d3325dba5.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/21f7a87e-c273-4f07-ad94-6e57550aa1fc.jpg)
+Art & Prints by Edain http://edainmcneilly.deviantart.com/
